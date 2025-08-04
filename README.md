@@ -1,4 +1,4 @@
-# Connect 4 - Pure Python Implementation
+# Connect 4 - Python Library Implementation
 
 A Connect 4 game implementation in Python using **only built-in libraries** - no external dependencies required!
 
